@@ -15,7 +15,7 @@ function Experience() {
           <span>MySQL.</span>
         </li>
         <li className="item">
-          <h2>Languages</h2>
+          <h2>Linguagens</h2>
           <span>JavaScript, PHP, Java, Python</span>
         </li>
       </ol>
