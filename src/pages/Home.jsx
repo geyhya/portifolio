@@ -9,7 +9,7 @@ function Home() {
         <img src={me} alt="Me" />
         <h2>Vitória Santos</h2>
         <div className="prompt">
-          <p>Uma estudante da ETEC e aspirante a programação.</p>
+          <p>Estudante da Etec</p>
           <a
             className="social-media"
             href="https://www.linkedin.com/in/vit%C3%B3ria-da-silva-santos-2376a2252/"
