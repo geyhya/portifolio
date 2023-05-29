@@ -5,7 +5,7 @@ function Experience() {
   return (
     <div className="skills">
       <ol className="list">
-        <h1>Skills</h1>
+        <h1>Habilidades</h1>
         <li className="item">
           <h2> Front-End</h2>
           <span>ReactJS, HTML, CSS, React Native, NPM, BootStrap.</span>
